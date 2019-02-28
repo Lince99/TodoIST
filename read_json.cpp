@@ -26,35 +26,6 @@ class Reader {
         string data;
     public:
         Reader() {
-            /*
-            {"menu": {
-              "id": "file",
-              "value": "File",
-              "popup": {
-                "menuitem": [
-                  {"value": "New", "onclick": "CreateNewDoc()"},
-                  {"value": "Open", "onclick": "OpenDoc()"},
-                  {"value": "Close", "onclick": "CloseDoc()"}
-                ]
-              }
-            }}
-
-            */
-            /*{*/
-            /*"menu": {*/
-            /*
-              "id": "file",
-              "value": "File",
-              "popup": */
-            /*
-            {
-              "menuitem": [
-                {"value": "New", "onclick": "CreateNewDoc()"},
-                {"value": "Open", "onclick": "OpenDoc()"},
-                {"value": "Close", "onclick": "CloseDoc()"}
-              ]
-            }
-            */
         }
 
         /* Method that saves the content of the file into the string */

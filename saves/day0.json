@@ -1,0 +1,28 @@
+{
+    "username" : "Bob",
+    "creation_date" : {
+        "year" : 1970,
+        "month" : 1,
+        "day" : 1,
+        "hour" : 0,
+        "minute" : 0,
+        "second" : 0
+    },
+    "pending" : [1234, 5678],
+    "todo_list" : [
+        {
+            "index" : 1234,
+            "text" : "...",
+            "priority" : 0,
+            "due_date" : {
+                "year" : 1970,
+                "month" : 1,
+                "day" : 1,
+                "hour" : 0,
+                "minute" : 0,
+                "second" : 0
+            }
+        },
+        {}
+    ]
+}
